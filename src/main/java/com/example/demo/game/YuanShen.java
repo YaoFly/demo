@@ -6,7 +6,9 @@ public class YuanShen {
     static double c = 0.79D;
 
     public static void main(String[] args) {
+        //可莉
         calculate(new Role(1853,807,0.57,0.79));
+        //皇女
         calculate(new Role(1434,607,0.48,1.26));
     }
 
